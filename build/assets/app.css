@@ -1,0 +1,23 @@
+body {
+  display: block;
+  background: #008000;
+}
+div {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header {
+  background-color: #00f;
+}
+.header__list {
+  background-color: #f00;
+}
+.header__item {
+  margin: 10px 0;
+}
+.header__item_super {
+  background-color: #000;
+}
